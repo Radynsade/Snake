@@ -1,0 +1,6 @@
+{
+	"files.associations": {
+		"snakeconfig.h": "c",
+		"inttypes.h": "c"
+	}
+}

@@ -1,0 +1,1 @@
+gcc .\src\main.c -o .\build\dev.exe -O1 -Wall -Wextra -std=c17 -Wno-missing-braces -lraylib -lopengl32 -lgdi32 -lwinmm && .\build\dev.exe
